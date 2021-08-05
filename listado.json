@@ -1,5 +1,5 @@
-"nombre": "Listado de ejemplo",
-    "listado": [
+
+ [
         {
             "atributo1": "aaaaa",
             "atributo2": "bbbbb",
@@ -36,4 +36,3 @@
             "atributo5": "yyyyy"
         }
     ]
-}
